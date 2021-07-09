@@ -1,4 +1,4 @@
-![Computer Vision Research](https://github.com/alwynmathew/alwynmathew/blob/main/banner.png)
+![Computer Vision Research](https://github.com/alwynm/alwynm/blob/master/banner.png)
 
 PhD candidate at [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in)
 
